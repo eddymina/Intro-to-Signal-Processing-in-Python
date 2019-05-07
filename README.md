@@ -3,7 +3,7 @@
 
 
 <p align="center"> 
-<img src="images/signal_results">
+<img src="images/signal_results.png">
 </p>
 
 
